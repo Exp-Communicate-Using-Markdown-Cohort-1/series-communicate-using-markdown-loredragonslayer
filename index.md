@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Create README for profile
+- [ ] Start GitHub Education Module Communicate Using Markdown
+- [ ] Finish GitHub Education Module Communicate Using Markdown
